@@ -31,9 +31,6 @@ per l'estensione.
 contiene tutta la documentazione Javadoc del progetto. Disponibile sia per il progetto base
 che per l'estensione.
 
-*JavaFX:*
-contiene la libreria JavaFX utilizzata per l'estensione del progetto.
-
 *SQL Connector e script:*
 contiene il connettore necessario per connettere il server al database mySQL e lo script per
 inizializzare il database.
